@@ -1,1 +1,4 @@
 * text=auto !eol
+/apertium-mal-eng.eng.dix -text
+/apertium-mal-eng.mal-eng.dix -text
+/apertium-mal-eng.mal.dix -text
