@@ -3,4 +3,5 @@
 /apertium-mal-eng.eng.dix -text
 /apertium-mal-eng.mal-eng.dix -text
 /apertium-mal-eng.mal.dix -text
+/eng-mal.autogen.bin -text
 texts/cuento.eng.txt -text
