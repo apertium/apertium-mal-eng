@@ -4,5 +4,6 @@
 /apertium-mal-eng.mal-eng.dix -text
 /apertium-mal-eng.mal-eng.t1x -text
 /apertium-mal-eng.mal.dix -text
+dev/maram.speling -text
 texts/cuento.eng.txt -text
 texts/cuento.mal.txt -text
