@@ -2,8 +2,19 @@
 /Makefile -text
 /apertium-mal-eng.eng.dix -text
 /apertium-mal-eng.mal-eng.dix -text
+/apertium-mal-eng.mal-eng.lrx -text
 /apertium-mal-eng.mal-eng.t1x -text
+/apertium-mal-eng.mal-eng.t2x -text
+/apertium-mal-eng.mal-eng.t3x -text
 /apertium-mal-eng.mal.dix -text
+/apertium-mal-eng.post-eng.dix -text
 dev/maram.speling -text
+/eng-mal.autogen.bin -text
+/eng-mal.automorf.bin -text svneol=unset#unset
+/mal-eng.autobil.bin -text
+/mal-eng.autogen.bin -text svneol=unset#unset
+/mal-eng.automorf.bin -text
+/mal-eng.prob -text
+/modes.xml -text
 texts/cuento.eng.txt -text
 texts/cuento.mal.txt -text
