@@ -7,6 +7,7 @@
 /apertium-mal-eng.mal-eng.t2x -text
 /apertium-mal-eng.mal-eng.t3x -text
 /apertium-mal-eng.mal.dix -text
+/apertium-mal-eng.mal.tsx -text
 /apertium-mal-eng.post-eng.dix -text
 dev/maram.speling -text
 /mal-eng.prob -text
