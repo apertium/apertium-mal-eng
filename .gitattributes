@@ -14,4 +14,11 @@ dev/maram.speling -text
 /modes.xml -text
 texts/cuento.eng.txt -text
 texts/cuento.mal.txt -text
-/ui -text
+ui/Makefile -text
+ui/about.ui -text
+ui/main.cpp -text
+ui/mainwindow.cpp -text
+ui/mainwindow.h -text
+ui/mainwindow.ui -text
+ui/translator.pro -text
+ui/translator.pro.user -text
