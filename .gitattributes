@@ -14,3 +14,4 @@ dev/maram.speling -text
 /modes.xml -text
 texts/cuento.eng.txt -text
 texts/cuento.mal.txt -text
+/ui -text
