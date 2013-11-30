@@ -11,6 +11,7 @@
 /apertium-mal-eng.post-eng.dix -text
 dev/maram.speling -text
 /mal-eng.prob -text
+/mlfreqlist.txt -text
 /modes.xml -text
 texts/cuento.eng.txt -text
 texts/cuento.mal.txt -text
