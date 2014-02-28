@@ -1,5 +1,7 @@
 * text=auto !eol
 /Makefile -text
+/apertium-mal-eng.eng-mal.lrx -text
+/apertium-mal-eng.eng-mal.rlx -text
 /apertium-mal-eng.eng-mal.t1x -text
 /apertium-mal-eng.eng-mal.t2x -text
 /apertium-mal-eng.eng-mal.t3x -text
@@ -13,8 +15,12 @@
 /apertium-mal-eng.mal.dix -text
 /apertium-mal-eng.mal.tsx -text
 /apertium-mal-eng.post-eng.dix -text
+/apertium-mal-eng.post-mal.dix -text
 dev/maram.speling -text
+/eng-mal.prob -text svneol=unset#unset
+/mal-eng.mode -text
 /mal-eng.prob -text
+/mal-eng.translit.dix -text
 /modes.xml -text
 texts/cuento.eng.txt -text
 texts/cuento.mal.txt -text
