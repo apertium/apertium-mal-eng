@@ -18,7 +18,6 @@
 /apertium-mal-eng.post-mal.dix -text
 dev/maram.speling -text
 /eng-mal.prob -text svneol=unset#unset
-/mal-eng.mode -text
 /mal-eng.prob -text
 /mal-eng.translit.dix -text
 /modes.xml -text
