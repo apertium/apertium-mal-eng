@@ -1,5 +1,6 @@
 * text=auto !eol
 /Makefile -text
+/TODO -text
 /apertium-mal-eng.eng-mal.lrx -text
 /apertium-mal-eng.eng-mal.rlx -text
 /apertium-mal-eng.eng-mal.t1x -text
