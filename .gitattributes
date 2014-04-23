@@ -17,6 +17,12 @@
 /apertium-mal-eng.mal.tsx -text
 /apertium-mal-eng.post-eng.dix -text
 /apertium-mal-eng.post-mal.dix -text
+backup/apertium-mal-eng.eng-mal.t1x -text
+backup/apertium-mal-eng.eng-mal.t2x -text
+backup/apertium-mal-eng.eng-mal.t3x -text
+backup/apertium-mal-eng.mal-eng.t1x -text
+backup/apertium-mal-eng.mal-eng.t2x -text
+backup/apertium-mal-eng.mal-eng.t3x -text
 dev/maram.speling -text
 /eng-mal.prob -text svneol=unset#unset
 /mal-eng.prob -text
