@@ -18,7 +18,6 @@
 /apertium-mal-eng.mal-eng.t2x -text
 /apertium-mal-eng.mal-eng.t3x -text
 /apertium-mal-eng.mal.dix -text
-/apertium-mal-eng.mal.tsx -text
 /apertium-mal-eng.post-eng.dix -text
 /autogen.sh -text
 backup/apertium-mal-eng.eng-mal.t1x -text
