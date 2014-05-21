@@ -17,7 +17,6 @@
 /apertium-mal-eng.mal-eng.t1x -text
 /apertium-mal-eng.mal-eng.t2x -text
 /apertium-mal-eng.mal-eng.t3x -text
-/apertium-mal-eng.mal.dix -text
 /apertium-mal-eng.post-eng.dix -text
 /autogen.sh -text
 backup/apertium-mal-eng.eng-mal.t1x -text
@@ -26,6 +25,7 @@ backup/apertium-mal-eng.eng-mal.t3x -text
 backup/apertium-mal-eng.mal-eng.t1x -text
 backup/apertium-mal-eng.mal-eng.t2x -text
 backup/apertium-mal-eng.mal-eng.t3x -text
+backup/apertium-mal-eng.mal.dix -text
 /configure.ac -text
 dev/latin-gen.py -text
 dev/maram.speling -text
