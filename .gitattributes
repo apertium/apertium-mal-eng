@@ -35,3 +35,5 @@ dev/maram.speling -text
 /modes.xml -text
 texts/cuento.eng.txt -text
 texts/cuento.mal.txt -text
+texts/nelson.txt -text svneol=unset#application/octet-stream
+texts/radium.txt -text svneol=unset#application/octet-stream
