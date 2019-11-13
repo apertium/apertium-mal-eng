@@ -2594,6 +2594,7 @@
     <e><p><l>ഉത്പാദനം<s n="n"/></l><r>manufacture<s n="n"/></r></p></e>
     <e><p><l>സാന്നിദ്ധ്യം<s n="n"/></l><r>presence<s n="n"/></r></p></e>
     <e><p><l>സാന്നിദ്ധ്യം<s n="n"/></l><r>involvement<s n="n"/></r></p></e>
+    <e><p><l>സാന്നിദ്ധ്യം<s n="n"/></l><r>occurence<s n="n"/></r></p></e>
     <e><p><l>യന്ത്രം<s n="n"/></l><r>tool<s n="n"/></r></p></e>
     <e><p><l>യന്ത്രം<s n="n"/></l><r>motor<s n="n"/></r></p></e>
     <e><p><l>യന്ത്രം<s n="n"/></l><r>machine<s n="n"/></r></p></e>
@@ -4838,6 +4839,7 @@
     <e><p><l>അധികാരി<s n="n"/></l><r>chancellor<s n="n"/></r></p></e>
     <e><p><l>അധികാരി<s n="n"/></l><r>authority<s n="n"/></r></p></e>
     <e><p><l>അധികാരി<s n="n"/></l><r>administrator<s n="n"/></r></p></e>
+    <e><p><l>അണുസംഖ്യ<s n="n"/></l><r>atomic number<s n="n"/></r></p></e>
     <e><p><l>അണു<s n="n"/></l><r>particle<s n="n"/></r></p></e>
     <e><p><l>അണു<s n="n"/></l><r>grain<s n="n"/></r></p></e>
     <e><p><l>അണു<s n="n"/></l><r>germ<s n="n"/></r></p></e>
@@ -9042,6 +9044,13 @@
     <e><p><l>അനിശ്ചിതത്വം<s n="n"/></l><r>skepticism<s n="n"/></r></p></e>
     <e><p><l>അനിശ്ചിതത്വം<s n="n"/></l><r>flexibility<s n="n"/></r></p></e>
     <e><p><l>അദ്ധ്യക്ഷത<s n="n"/></l><r>presidency<s n="n"/></r></p></e>
+    <e><p><l>റേഡിയം<s n="n"/></l><r>radium<s n="n"/></r></p></e>
+    <e><p><l>അണുസംഖ്യ<s n="n"/></l><r>atomic number<s n="n"/></r></p></e>
+    <e><p><l>ആവര്‍ത്തനപ്പട്ടിക<s n="n"/></l><r>periodic table<s n="n"/></r></p></e>
+    <e><p><l>അണുപ്രസരം<s n="n"/></l><r>radioactivity<s n="n"/></r></p></e>
+    <e><p><l>ശുദ്ധം<s n="n"/></l><r>pure<s n="n"/></r></p></e>
+    <e><p><l>വെള്ള<s n="n"/></l><r>white<s n="n"/></r></p></e>
+    <e><p><l>റേഡിയോആക്ടിവിറ്റി<s n="n"/></l><r>radioactivity<s n="n"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -9072,7 +9081,8 @@
     <e><p><l>പ്രമുഖ<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
 
     <e><p><l>ഇഷ്ടം<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
-   <e><p><l>ഇഷ്ടം<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>വെള്ള<s n="adj"/></l><r>white<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ശ്രദ്ധേയമായ<s n="adj"/></l><r>characteristic<s n="adj"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
