@@ -184,7 +184,22 @@
     <e><p><l>muppattempat<s n="num"/></l><r>thirtynine<s n="num"/><s n="sp"/></r></p></e>
 
     <e><p><l>nappat<s n="num"/></l><r>fourty<s n="num"/><s n="sp"/></r></p></e>
-
+    <e><p><l>anpat<s n="num"/></l><r>fifty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>aṟupat<s n="num"/></l><r>sixty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>eḻupat<s n="num"/></l><r>seventy<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>eṇpat<s n="num"/></l><r>eighty<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>teāṇṇūṟ<s n="num"/></l><r>ninety<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>nuṟ<s n="num"/></l><r>hundred<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>āyiraṁ<s n="num"/></l><r>thousand<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>pattulakṣaṁ<s n="num"/></l><r>hundred<s n="num"/><s n="sp"/></r></p></e>
+    
+    <e><p><l>pādattil<s n="num"/></l><r>quarter<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>pakuti<s n="num"/></l><r>half<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>orikkal<s n="num"/></l><r>once<s n="num"/><s n="sp"/></r></p></e>
+    <e><p><l>raṇṭuprāvaśyaṁ<s n="num"/></l><r>twice<s n="num"/><s n="sp"/></r></p></e>
+    
+    
+  
 
 
 
@@ -192,10 +207,10 @@
 
     <!-- SECTION: Nouns -->
 
-    <e><p><l>innale<s n="n"/><s n="sg"/></l><r>yesterday<s n="adv"/></r></p></e>
-    <e><p><l>inn<s n="n"/><s n="sg"/></l><r>today<s n="adv"/></r></p></e>
-        <e><p><l>kāṟṟ<s n="n"/></l><r>wind<s n="n"/></r></p></e>
-    <e><p><l>var‍ṇṇavivēcanaṁ<s n="n"/></l><r>racism<s n="n"/></r></p></e>
+<e><p><l>innale<s n="n"/><s n="sg"/></l><r>yesterday<s n="adv"/></r></p></e>
+<e><p><l>inn<s n="n"/><s n="sg"/></l><r>today<s n="adv"/></r></p></e>
+<e><p><l>kāṟṟ<s n="n"/></l><r>wind<s n="n"/></r></p></e>
+<e><p><l>var‍ṇṇavivēcanaṁ<s n="n"/></l><r>racism<s n="n"/></r></p></e>
 <e><p><l>abhisambēādhana<s n="n"/></l><r>address<s n="n"/></r></p></e>
 <e><p><l>kamyūṇisṟṟ<s n="n"/></l><r>communist<s n="n"/></r></p></e>
 <e><p><l>gēātraṁ<s n="n"/></l><r>caste<s n="n"/></r></p></e>
