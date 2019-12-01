@@ -122,6 +122,7 @@
 
     <e><p><l>അത്<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
     <e><p><l>ഇത്<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
+    <e><p><l>ഈ<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
 
     <e><p><l>എന്ത്<s n="prn"/><s n="itg"/><s n="sg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
@@ -133,6 +134,7 @@
 
     <e><p><l>അത്<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
     <e><p><l>ഇത്<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+    <e><p><l>ഈ<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
 
 
     <!-- SECTION: Numerals -->
@@ -320,7 +322,7 @@
     <e><p><l>മൂലം<s n="n"/></l><r>origin<s n="n"/></r></p></e>
     <e><p><l>മൂലം<s n="n"/></l><r>cause<s n="n"/></r></p></e>
     <e><p><l>മൂലം<s n="n"/></l><r>beginning<s n="n"/></r></p></e>
-    <e><p><l>ഏകദേശം<s n="n"/></l><r>flat<s n="n"/></r></p></e>
+    <e><p><l>ഏകദേശം<s n="n"/></l><r>approximately<s n="n"/></r></p></e>
     <e><p><l>കാരണം<s n="n"/></l><r>subject<s n="n"/></r></p></e>
     <e><p><l>കാരണം<s n="n"/></l><r>sake<s n="n"/></r></p></e>
     <e><p><l>കാരണം<s n="n"/></l><r>root<s n="n"/></r></p></e>
@@ -982,7 +984,6 @@
     <e><p><l>പട്ടിക<s n="n"/></l><r>listing<s n="n"/></r></p></e>
     <e><p><l>പട്ടിക<s n="n"/></l><r>list<s n="n"/></r></p></e>
     <e><p><l>പട്ടിക<s n="n"/></l><r>index<s n="n"/></r></p></e>
-    <e><p><l>സ<s n="n"/></l><r>athletics<s n="n"/></r></p></e>
     <e><p><l>പണം<s n="n"/></l><r>tin<s n="n"/></r></p></e>
     <e><p><l>പണം<s n="n"/></l><r>supply<s n="n"/></r></p></e>
     <e><p><l>പണം<s n="n"/></l><r>stuff<s n="n"/></r></p></e>
@@ -9042,6 +9043,15 @@
     <e><p><l>അനിശ്ചിതത്വം<s n="n"/></l><r>skepticism<s n="n"/></r></p></e>
     <e><p><l>അനിശ്ചിതത്വം<s n="n"/></l><r>flexibility<s n="n"/></r></p></e>
     <e><p><l>അദ്ധ്യക്ഷത<s n="n"/></l><r>presidency<s n="n"/></r></p></e>
+    <e><p><l>റേഡിയം<s n="n"/></l><r>radium<s n="n"/></r></p></e>
+    <e><p><l>അണുസംഖ്യ<s n="n"/></l><r>atomic number<s n="n"/></r></p></e>
+    <e><p><l>ആവര്‍ത്തനപ്പട്ടിക<s n="n"/></l><r>periodic table<s n="n"/></r></p></e>
+    <e><p><l>അണുപ്രസരം<s n="n"/></l><r>radioactive<s n="n"/></r></p></e>
+    <e><p><l>ഐസോട്ടോപ്പ്<s n="n"/></l><r>isotope<s n="n"/></r></p></e>
+    <e><p><l>ശോഷണം<s n="n"/></l><r>decay<s n="n"/></r></p></e>
+    <e><p><l>റഡോണ്‍<s n="n"/></l><r>radon<s n="n"/></r></p></e>
+    <e><p><l>ലോഹം<s n="n"/></l><r>metal<s n="n"/></r></p></e>
+    <e><p><l>ആല്‍ക്കലൈന്‍ എര്‍ത്ത് ലോഹം<s n="n"/></l><r>alkaline earth metal<s n="n"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
@@ -9072,7 +9082,8 @@
     <e><p><l>പ്രമുഖ<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
 
     <e><p><l>ഇഷ്ടം<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
-   <e><p><l>ഇഷ്ടം<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>സാധാരണ<s n="adj"/></l><r>typical<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ശുദ്ധം<s n="adj"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
 
     <!-- SECTION: Adverbs -->
 
@@ -9106,6 +9117,8 @@
     <e><p><l>തന്നെ<s n="adv"/></l><r>definitely<s n="adv"/></r></p></e>
     <e><p><l>വ്യക്തമായി<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>
     <e><p><l>പുറത്ത്<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
+    <e><p><l>സാധാരണനിലയിൽ<s n="adv"/></l><r>typically<s n="adv"/></r></p></e>
+    <e><p><l>ക്രമേണ<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
 
     <!--SECTION: Verbs -->
 
