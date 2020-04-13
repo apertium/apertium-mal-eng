@@ -44,9 +44,10 @@
     <sdef n="pprs" 	c="Present participle tense"/> 
     <sdef n="neg" /> 
     <sdef n="ant" 	c="Anthroponym"/> 
-    <sdef n="cog" 	c=""/> 
-	<sdef n="top" 	c=""/> 
-    <sdef n="pers" 	c="Personal"/> 
+    <sdef n="cog" 	c="Cognomen"/> 
+	<sdef n="top" 	c="Toponym"/> 
+    <sdef n="pers" 	c="Personal"/>
+	<sdef n="al"    c="Altres"/>
     <sdef n="itg" 	c="Interrogative"/> 
     <sdef n="subj" 	c="Subject . क्रियापद"/> 
     <sdef n="obj" 	c="object"/> 
@@ -122,6 +123,7 @@
 
     <e><p><l>അത്<s n="prn"/><s n="dem"/></l><r>that<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
     <e><p><l>ഇത്<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
+    <e><p><l>ഈ<s n="prn"/><s n="dem"/></l><r>this<s n="prn"/><s n="dem"/><s n="mf"/></r></p></e>
 
     <e><p><l>എന്ത്<s n="prn"/><s n="itg"/><s n="sg"/></l><r>what<s n="prn"/><s n="itg"/><s n="mf"/><s n="sp"/></r></p></e>
 
@@ -133,6 +135,7 @@
 
     <e><p><l>അത്<s n="det"/><s n="dem"/></l><r>that<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
     <e><p><l>ഇത്<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
+    <e><p><l>ഈ<s n="det"/><s n="dem"/></l><r>this<s n="det"/><s n="dem"/><s n="sg"/></r></p></e>
 
 
     <!-- SECTION: Numerals -->
@@ -158,44 +161,43 @@
     <e><p><l>പതിനേഴ്<s n="num"/></l><r>seventeen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>പതിനെട്ട്<s n="num"/></l><r>eighteen<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>പത്തൊമ്പത്<s n="num"/></l><r>nineteen<s n="num"/><s n="sp"/></r></p></e>
-
-
     <e><p><l>ഇരുപത്<s n="num"/></l><r>twenty<s n="num"/><s n="sp"/></r></p></e>
     <e><p><l>മുപ്പത്<s n="num"/></l><r>thirty<s n="num"/><s n="sp"/></r></p></e>
 
     <!-- SECTION: Nouns -->
 
     <e><p><l>ഇന്നലെ<s n="n"/><s n="sg"/></l><r>yesterday<s n="adv"/></r></p></e>
+	<e><p><l>അർത്ഥം<s n="n"/><s n="sg"/></l><r>meaning<s n="n"/></r></p></e>
     <e><p><l>ഇന്ന്<s n="n"/><s n="sg"/></l><r>today<s n="adv"/></r></p></e>
-        <e><p><l>കാറ്റ്<s n="n"/></l><r>wind<s n="n"/></r></p></e>
+	<e><p><l>കാറ്റ്<s n="n"/></l><r>wind<s n="n"/></r></p></e>
     <e><p><l>വര്‍ണ്ണവിവേചനം<s n="n"/></l><r>racism<s n="n"/></r></p></e>
-<e><p><l>അഭിസംബോധന<s n="n"/></l><r>address<s n="n"/></r></p></e>
-<e><p><l>കമ്യൂണിസ്റ്റ്<s n="n"/></l><r>communist<s n="n"/></r></p></e>
-<e><p><l>ഗോത്രം<s n="n"/></l><r>caste<s n="n"/></r></p></e>
-<e><p><l>ജീവപര്യന്തം<s n="n"/></l><r>TODO<s n="n"/></r></p></e>
-<e><p><l>ജൂലൈ<s n="n"/></l><r>July<s n="n"/></r></p></e>
-<e><p><l>തെരഞ്ഞെടുപ്പ്<s n="n"/></l><r>election<s n="n"/></r></p></e>
-<e><p><l>തെമ്പു<s n="n"/></l><r>TODO<s n="n"/></r></p></e>
-<e><p><l>നവംബര്‍<s n="n"/></l><r>November<s n="n"/></r></p></e>
-<e><p><l>നോബല്‍<s n="n"/></l><r>Nobel<s n="n"/></r></p></e>
-<e><p><l>പുരസ്കാരം<s n="n"/></l><r>award<s n="n"/></r></p></e>
-<e><p><l>പൊതുസഭ<s n="n"/></l><r>TODO<s n="n"/></r></p></e>
-<e><p><l>പ്രയത്നം<s n="n"/></l><r>effort<s n="n"/></r></p></e>
-<e><p><l>പ്രസിഡണ്ട്<s n="n"/></l><r>president<s n="n"/></r></p></e>
-<e><p><l>ഭാരതരത്ന<s n="n"/></l><r>Bharath<b/>Rathna<s n="n"/></r></p></e>
-<e><p><l>രാജകുടുംബം<s n="n"/></l><r>royal<b/>family<s n="n"/></r></p></e>
-<e><p><l>രാഷ്ട്രീയം<s n="n"/></l><r>politics<s n="n"/></r></p></e>
-<e><p><l>ലോകം<s n="n"/></l><r>world<s n="n"/></r></p></e>
-<e><p><l>വിധ്വംസനം<s n="n"/></l><r>sabotage<s n="n"/></r></p></e>
-<e><p><l>സംബോധന<s n="n"/></l><r>address<s n="n"/></r></p></e>
-<e><p><l>സ്ഥാപകന്‍<s n="n"/></l><r>founder<s n="n"/></r></p></e>
-<e><p><l>സ്വാതന്ത്ര്യം<s n="n"/></l><r>freedom<s n="n"/></r></p></e>
-<e><p><l>ഡിസംബര്‍<s n="n"/></l><r>December<s n="n"/></r></p></e>
-<e><p><l>വര്‍ണ്ണം<s n="n"/></l><r>colour<s n="n"/></r></p></e>
-<e><p><l>ലീഗ്<s n="n"/></l><r>leegue<s n="n"/></r></p></e>
-<e><p><l>ജയില്‍<s n="n"/></l><r>jail<s n="n"/></r></p></e>
-<e><p><l>പ്രവര്‍ത്തനം<s n="n"/></l><r>action<s n="n"/></r></p></e>
-<e><p><l>വര്‍ഷം<s n="n"/></l><r>year<s n="n"/></r></p></e>
+	<e><p><l>അഭിസംബോധന<s n="n"/></l><r>address<s n="n"/></r></p></e>
+	<e><p><l>കമ്യൂണിസ്റ്റ്<s n="n"/></l><r>communist<s n="n"/></r></p></e>
+	<e><p><l>ഗോത്രം<s n="n"/></l><r>caste<s n="n"/></r></p></e>
+	<e><p><l>ജീവപര്യന്തം<s n="n"/></l><r>TODO<s n="n"/></r></p></e>
+	<e><p><l>ജൂലൈ<s n="n"/></l><r>July<s n="n"/></r></p></e>
+	<e><p><l>തെരഞ്ഞെടുപ്പ്<s n="n"/></l><r>election<s n="n"/></r></p></e>
+	<e><p><l>തെമ്പു<s n="n"/></l><r>TODO<s n="n"/></r></p></e>
+	<e><p><l>നവംബര്‍<s n="n"/></l><r>November<s n="n"/></r></p></e>
+	<e><p><l>നോബല്‍<s n="n"/></l><r>Nobel<s n="n"/></r></p></e>
+	<e><p><l>പുരസ്കാരം<s n="n"/></l><r>award<s n="n"/></r></p></e>
+	<e><p><l>പൊതുസഭ<s n="n"/></l><r>TODO<s n="n"/></r></p></e>
+	<e><p><l>പ്രയത്നം<s n="n"/></l><r>effort<s n="n"/></r></p></e>
+	<e><p><l>പ്രസിഡണ്ട്<s n="n"/></l><r>president<s n="n"/></r></p></e>
+	<e><p><l>ഭാരതരത്ന<s n="n"/></l><r>Bharath<b/>Rathna<s n="n"/></r></p></e>
+	<e><p><l>രാജകുടുംബം<s n="n"/></l><r>royal<b/>family<s n="n"/></r></p></e>
+	<e><p><l>രാഷ്ട്രീയം<s n="n"/></l><r>politics<s n="n"/></r></p></e>
+	<e><p><l>ലോകം<s n="n"/></l><r>world<s n="n"/></r></p></e>
+	<e><p><l>വിധ്വംസനം<s n="n"/></l><r>sabotage<s n="n"/></r></p></e>
+	<e><p><l>സംബോധന<s n="n"/></l><r>address<s n="n"/></r></p></e>
+	<e><p><l>സ്ഥാപകന്‍<s n="n"/></l><r>founder<s n="n"/></r></p></e>
+	<e><p><l>സ്വാതന്ത്ര്യം<s n="n"/></l><r>freedom<s n="n"/></r></p></e>
+	<e><p><l>ഡിസംബര്‍<s n="n"/></l><r>December<s n="n"/></r></p></e>
+	<e><p><l>വര്‍ണ്ണം<s n="n"/></l><r>colour<s n="n"/></r></p></e>
+	<e><p><l>ലീഗ്<s n="n"/></l><r>league<s n="n"/></r></p></e>
+	<e><p><l>ജയില്‍<s n="n"/></l><r>jail<s n="n"/></r></p></e>
+	<e><p><l>പ്രവര്‍ത്തനം<s n="n"/></l><r>action<s n="n"/></r></p></e>
+	<e><p><l>വര്‍ഷം<s n="n"/></l><r>year<s n="n"/></r></p></e>
 
 
 
@@ -320,7 +322,7 @@
     <e><p><l>മൂലം<s n="n"/></l><r>origin<s n="n"/></r></p></e>
     <e><p><l>മൂലം<s n="n"/></l><r>cause<s n="n"/></r></p></e>
     <e><p><l>മൂലം<s n="n"/></l><r>beginning<s n="n"/></r></p></e>
-    <e><p><l>ഏകദേശം<s n="n"/></l><r>flat<s n="n"/></r></p></e>
+    <e><p><l>ഏകദേശം<s n="n"/></l><r>approximately<s n="n"/></r></p></e>
     <e><p><l>കാരണം<s n="n"/></l><r>subject<s n="n"/></r></p></e>
     <e><p><l>കാരണം<s n="n"/></l><r>sake<s n="n"/></r></p></e>
     <e><p><l>കാരണം<s n="n"/></l><r>root<s n="n"/></r></p></e>
@@ -982,7 +984,6 @@
     <e><p><l>പട്ടിക<s n="n"/></l><r>listing<s n="n"/></r></p></e>
     <e><p><l>പട്ടിക<s n="n"/></l><r>list<s n="n"/></r></p></e>
     <e><p><l>പട്ടിക<s n="n"/></l><r>index<s n="n"/></r></p></e>
-    <e><p><l>സ<s n="n"/></l><r>athletics<s n="n"/></r></p></e>
     <e><p><l>പണം<s n="n"/></l><r>tin<s n="n"/></r></p></e>
     <e><p><l>പണം<s n="n"/></l><r>supply<s n="n"/></r></p></e>
     <e><p><l>പണം<s n="n"/></l><r>stuff<s n="n"/></r></p></e>
@@ -9047,17 +9048,23 @@
     <e><p><l>റേഡിയം<s n="n"/></l><r>radium<s n="n"/></r></p></e>
     <e><p><l>അണുസംഖ്യ<s n="n"/></l><r>atomic number<s n="n"/></r></p></e>
     <e><p><l>ആവര്‍ത്തനപ്പട്ടിക<s n="n"/></l><r>periodic table<s n="n"/></r></p></e>
-    <e><p><l>അണുപ്രസരം<s n="n"/></l><r>radioactivity<s n="n"/></r></p></e>
-    <e><p><l>ശുദ്ധം<s n="n"/></l><r>pure<s n="n"/></r></p></e>
-    <e><p><l>വെള്ള<s n="n"/></l><r>white<s n="n"/></r></p></e>
-    <e><p><l>റേഡിയോആക്ടിവിറ്റി<s n="n"/></l><r>radioactivity<s n="n"/></r></p></e>
+    <e><p><l>അണുപ്രസരം<s n="n"/></l><r>radioactive<s n="n"/></r></p></e>
+    <e><p><l>ഐസോട്ടോപ്പ്<s n="n"/></l><r>isotope<s n="n"/></r></p></e>
+    <e><p><l>ശോഷണം<s n="n"/></l><r>decay<s n="n"/></r></p></e>
+    <e><p><l>റഡോണ്‍<s n="n"/></l><r>radon<s n="n"/></r></p></e>
+    <e><p><l>ലോഹം<s n="n"/></l><r>metal<s n="n"/></r></p></e>
+    <e><p><l>ആല്‍ക്കലൈന്‍ എര്‍ത്ത് ലോഹം<s n="n"/></l><r>alkaline earth metal<s n="n"/></r></p></e>
+    <e><p><l>ഭര്‍ത്താവ്<s n="n"/></l><r>husband<s n="n"/></r></p></e>
 
     <!-- SECTION: Proper nouns -->
 
     <e><p><l>രാജു<s n="np"/><s n="ant"/><s n="m"/></l><r>James<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>നെല്‍സണ്‍<s n="np"/><s n="ant"/><s n="m"/></l><r>Nelson<s n="np"/><s n="ant"/><s n="m"/></r></p></e>
     <e><p><l>മണ്ടേല<s n="np"/><s n="cog"/><s n="m"/></l><r>Mandela<s n="np"/><s n="cog"/></r></p></e>
-    <e><p><l>രാധ<s n="np"/><s n="ant"/><s n="f"/></l><r>Mary<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>മേരി<s n="np"/><s n="ant"/><s n="f"/></l><r>Mary<s n="np"/><s n="ant"/><s n="f"/></r></p></e>
+    <e><p><l>ക്യൂറി<s n="np"/><s n="cog"/><s n="f"/></l><r>Curie<s n="np"/><s n="cog"/></r></p></e>
+    <e><p><l>പിയറി<s n="np"/><s n="ant"/><s n="f"/></l><r>Pierre<s n="np"/><s n="ant"/></r></p></e>
+    <e><p><l>ലാറ്റിൻ<s n="np"/><s n="al"/></l><r>Latin<s n="np"/><s n="al"/></r></p></e>
     
     <!-- section :place names: -->
     
@@ -9081,6 +9088,8 @@
     <e><p><l>പ്രമുഖ<s n="adj"/></l><r>important<s n="adj"/></r></p></e>
 
     <e><p><l>ഇഷ്ടം<s n="adj"/></l><r>happy<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>സാധാരണ<s n="adj"/></l><r>typical<s n="adj"/><s n="sint"/></r></p></e>
+    <e><p><l>ശുദ്ധം<s n="adj"/></l><r>pure<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>വെള്ള<s n="adj"/></l><r>white<s n="adj"/><s n="sint"/></r></p></e>
     <e><p><l>ശ്രദ്ധേയമായ<s n="adj"/></l><r>characteristic<s n="adj"/></r></p></e>
 
@@ -9116,6 +9125,9 @@
     <e><p><l>തന്നെ<s n="adv"/></l><r>definitely<s n="adv"/></r></p></e>
     <e><p><l>വ്യക്തമായി<s n="adv"/></l><r>clearly<s n="adv"/></r></p></e>
     <e><p><l>പുറത്ത്<s n="adv"/></l><r>outside<s n="adv"/></r></p></e>
+    <e><p><l>സാധാരണനിലയിൽ<s n="adv"/></l><r>typically<s n="adv"/></r></p></e>
+    <e><p><l>ക്രമേണ<s n="adv"/></l><r>gradually<s n="adv"/></r></p></e>
+    <e><p><l>എന്ന്<s n="adv"/></l><r>which<s n="adv"/></r></p></e>
 
     <!--SECTION: Verbs -->
 
